@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:FF6B00&height=200&section=header&text=k2000vi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20Engineering%20%7C%20Data%20%7C%20Open%20Source&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.+Always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.)](https://git.io/typing-svg)
 
 </div>
 
