@@ -21,7 +21,7 @@
 | 🔥 **Status** | LLM Engineer in the making |
 | 📍 **Location** | France 🇫🇷 |
 | 💡 **Mantra** | `local > cloud` · `open > closed` |
-| 🛠️ **Stack** | Mistral · Ollama · Docker · PostgreSQL · Python |
+| 🛠️ **Stack** |  Ollama · Docker · PostgreSQL · Python |
 | 🎯 **Focus** | RAG · Agents · MCP · GraphRAG |
 
 <br clear="right"/>
