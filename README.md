@@ -1,11 +1,18 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER — dégradé diagonal sombre → cyan-teal -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a2a,60:0e6b6b,100:20A7C9&height=220&section=header&text=k2000vi&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20Engineering%20%7C%20Data%20%7C%20Open%20Source&descAlignY=56&descSize=19&descColor=20A7C9" />
 
 <br/>
 
+<!-- Typing animation couleur cyan signature -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=20A7C9&center=true&vCenter=true&width=640&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.;local+%3E+cloud+%7C+open+%3E+closed.)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Badges réseau social / profil -->
+[![GitHub](https://img.shields.io/badge/GitHub-k2000vi-20A7C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k2000vi)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=k2000vi.k2000vi&color=20A7C9)
 
 </div>
 
@@ -13,52 +20,17 @@
 
 ## 👨‍💻 Whoami
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <table>
-        <tr>
-          <td>🔥</td>
-          <td><strong>Status</strong></td>
-          <td>LLM Engineer in the making</td>
-        </tr>
-        <tr>
-          <td>📍</td>
-          <td><strong>Location</strong></td>
-          <td>France 🇫🇷</td>
-        </tr>
-        <tr>
-          <td>💡</td>
-          <td><strong>Mantra</strong></td>
-          <td><code>local > cloud</code> · <code>open > closed</code></td>
-        </tr>
-        <tr>
-          <td>🛠️</td>
-          <td><strong>Stack</strong></td>
-          <td>Mistral · Ollama · Docker · PostgreSQL · Python</td>
-        </tr>
-        <tr>
-          <td>🎯</td>
-          <td><strong>Focus</strong></td>
-          <td>RAG · Agents · MCP · GraphRAG</td>
-        </tr>
-        <tr>
-          <td>🌐</td>
-          <td><strong>Languages</strong></td>
-          <td>Python · SQL · Bash</td>
-        </tr>
-        <tr>
-          <td>⚡</td>
-          <td><strong>Currently</strong></td>
-          <td>Building RAG pipelines with Mistral + pgvector</td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top" align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+| | |
+|---|---|
+| 🔥 **Status** | LLM Engineer in the making |
+| 📍 **Location** | France 🇫🇷 |
+| 💡 **Mantra** | `local > cloud` · `open > closed` |
+| 🛠️ **Stack** | Mistral · Ollama · Docker · PostgreSQL · Python |
+| 🎯 **Focus** | RAG · Agents · MCP · GraphRAG |
+
+<br clear="right"/>
 
 ---
 
@@ -111,7 +83,18 @@
 
 <div align="center">
 
-<!-- FOOTER BANNER -->
+<!-- Badges statiques fiables — toujours affichés -->
+![Python](https://img.shields.io/badge/Python-main_language-20A7C9?style=for-the-badge&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-LLM_%26_RAG-0e6b6b?style=for-the-badge&logo=openai&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-first-0a2a2a?style=for-the-badge&logo=git&logoColor=20A7C9)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER BANNER — dégradé inverse cyan-teal → sombre -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20A7C9,40:0e6b6b,70:0a2a2a,100:0d1117&height=120&section=footer" />
 
 </div>
