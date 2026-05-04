@@ -85,21 +85,20 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=k2000vi&show_icons=true&theme=transparent&title_color=20A7C9&icon_color=20A7C9&text_color=ffffff&border_color=20A7C9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2000vi&layout=compact&theme=transparent&title_color=20A7C9&text_color=ffffff&border_color=20A7C9&bg_color=0d1117" />
+<!-- Streak stats — fiable, hébergé sur streak-stats.demolab.com -->
+![GitHub Streak](https://streak-stats.demolab.com?user=k2000vi&theme=dark&background=0d1117&border=20A7C9&ring=20A7C9&fire=0e6b6b&currStreakLabel=20A7C9&sideLabels=20A7C9&dates=888888&sideNums=ffffff&currStreakNum=ffffff)
 
-<br/><br/>
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=k2000vi&theme=transparent&background=0d1117&border=20A7C9&ring=20A7C9&fire=0e6b6b&currStreakLabel=20A7C9&sideLabels=20A7C9&dates=888888)
+<!-- Activity graph — hébergé sur github-readme-activity-graph.vercel.app -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=k2000vi&bg_color=0d1117&color=20A7C9&line=0e6b6b&point=20A7C9&area=true&area_color=0a2a2a&hide_border=false&border_color=20A7C9)](https://github.com/k2000vi)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/k2000vi/k2000vi/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<!-- Badges statiques fiables — toujours affichés -->
+![Python](https://img.shields.io/badge/Python-main_language-20A7C9?style=for-the-badge&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-LLM_%26_RAG-0e6b6b?style=for-the-badge&logo=openai&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-first-0a2a2a?style=for-the-badge&logo=git&logoColor=20A7C9)
 
 </div>
 
