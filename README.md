@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:FF6B00&height=200&section=header&text=k2000vi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20Engineering%20%7C%20Data%20%7C%20Open%20Source&descAlignY=55&descSize=18" />
+<!-- HEADER BANNER — dégradé diagonal sombre → cyan-teal -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a2a,60:0e6b6b,100:20A7C9&height=220&section=header&text=k2000vi&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20Engineering%20%7C%20Data%20%7C%20Open%20Source&descAlignY=56&descSize=19&descColor=20A7C9" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.)](https://git.io/typing-svg)
+<br/>
+
+<!-- Typing animation couleur cyan signature -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=20A7C9&center=true&vCenter=true&width=640&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.;local+%3E+cloud+%7C+open+%3E+closed.)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Badges réseau social / profil -->
+[![GitHub](https://img.shields.io/badge/GitHub-k2000vi-20A7C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k2000vi)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=k2000vi.k2000vi&color=20A7C9)
 
 </div>
 
@@ -10,10 +20,15 @@
 
 ## 👨‍💻 Whoami
 
-- 🔥 **Status** : LLM Engineer in the making
-- 📍 **Location** : France 🇫🇷
-- 💡 **Mantra** : local > cloud & open > closed.
-- 🛠️ **Stack** : Mistral · Ollama · Docker · PostgreSQL · Python
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+| | |
+|---|---|
+| 🔥 **Status** | LLM Engineer in the making |
+| 📍 **Location** | France 🇫🇷 |
+| 💡 **Mantra** | `local > cloud` · `open > closed` |
+| 🛠️ **Stack** | Mistral · Ollama · Docker · PostgreSQL · Python |
+| 🎯 **Focus** | RAG · Agents · MCP · GraphRAG |
 
 <br clear="right"/>
 
@@ -29,32 +44,53 @@
 
 ---
 
-### 🤖 LLM / Data Stack
+### 🤖 LLM / AI Stack
 
-<!-- LLM & AI -->
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistral-ai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-local_first-black?style=for-the-badge&logo=ollama&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity_API-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-local_first-0d1117?style=for-the-badge&logo=ollama&logoColor=20A7C9)
+![Perplexity](https://img.shields.io/badge/Perplexity_API-20A7C9?style=for-the-badge&logo=perplexity&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=20A7C9)
 
-<!-- Vector & Graph -->
-![pgvector](https://img.shields.io/badge/pgvector-VectorStore-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-GraphRAG-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-VectorIndex-4285F4?style=for-the-badge&logo=meta&logoColor=white)
+---
 
-<!-- Data & Pipelines -->
+### 🗄️ Vector & Graph
+
+![pgvector](https://img.shields.io/badge/pgvector-VectorStore-20A7C9?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-GraphRAG-0e6b6b?style=for-the-badge&logo=neo4j&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-VectorIndex-0a2a2a?style=for-the-badge&logo=meta&logoColor=20A7C9)
+
+---
+
+### ⚙️ Data & Pipelines
+
 ![Prefect](https://img.shields.io/badge/Prefect-pipelines-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-Modeling-FF694B?style=for-the-badge&logo=dbtlabs&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-ingest-728E9B?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Superset-Visualisation-1B4D3E?style=for-the-badge&logo=apachesuperset&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-ingest-0e6b6b?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Superset-Visualisation-20A7C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 
-<!-- Observability -->
+---
+
+### 📊 Observability & Privacy
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-<!-- Privacy -->
 ![RGPD](https://img.shields.io/badge/RGPD-by_design-2EA44F?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=k2000vi&show_icons=true&theme=transparent&title_color=20A7C9&icon_color=20A7C9&text_color=ffffff&border_color=20A7C9&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2000vi&layout=compact&theme=transparent&title_color=20A7C9&text_color=ffffff&border_color=20A7C9&bg_color=0d1117" />
+
+<br/><br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=k2000vi&theme=transparent&background=0d1117&border=20A7C9&ring=20A7C9&fire=0e6b6b&currStreakLabel=20A7C9&sideLabels=20A7C9&dates=888888)
 
 </div>
 
@@ -62,6 +98,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:6f42c1,100:0d1117&height=100&section=footer" />
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/k2000vi/k2000vi/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER BANNER — dégradé inverse cyan-teal → sombre -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20A7C9,40:0e6b6b,70:0a2a2a,100:0d1117&height=120&section=footer" />
 
 </div>
