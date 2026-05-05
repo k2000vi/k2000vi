@@ -33,7 +33,6 @@
     <tr>
       <td>⚡ <b>Daily Stack</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square&logo=mistral-ai&logoColor=white" alt="Mistral AI"/>
         <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=20A7C9" alt="Ollama"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
