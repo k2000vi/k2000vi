@@ -85,7 +85,7 @@
 ### ⚙️ Data & Pipelines
 
 ![Prefect](https://img.shields.io/badge/Prefect-pipelines-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-Modeling-FF694B?style=for-the-badge&logo=dbtlabs&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Modeling-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-ingest-0e6b6b?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Superset-Visualisation-20A7C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 
