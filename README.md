@@ -95,6 +95,7 @@
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<br>
 ![RGPD](https://img.shields.io/badge/RGPD-by_design-2EA44F?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 
 </div>
