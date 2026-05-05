@@ -31,7 +31,7 @@
       <td><code>local > cloud</code> · <code>open > closed</code></td>
     </tr>
     <tr>
-      <td>🛠️ <b>Stack</b></td>
+      <td>⚡ <b>Daily Stack</b></td>
       <td>
         <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square&logo=mistral-ai&logoColor=white" alt="Mistral AI"/>
         <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=20A7C9" alt="Ollama"/>
@@ -60,7 +60,7 @@
 
 ### 🔧 Core Tools
 
-[![Core Tools](https://skillicons.dev/icons?i=pycharm,python,fastapi,docker,git,github,bash,postgres&theme=dark)](https://skillicons.dev)
+[![Core Tools](https://skillicons.dev/icons?i=python,fastapi,docker,git,bash,postgres&theme=dark)](https://skillicons.dev)
 
 ---
 
