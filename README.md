@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing animation couleur cyan signature -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=20A7C9&center=true&vCenter=true&width=640&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.;local+%3E+cloud+%7C+open+%3E+closed.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=20A7C9&center=true&vCenter=true&width=640&lines=I+build+things+with+LLMs.;Models+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+Agents;Open+source+first.)](https://git.io/typing-svg)
 
 </div>
 
