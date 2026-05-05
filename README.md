@@ -103,17 +103,6 @@
 
 <div align="center">
 
-<!-- Badges statiques fiables — toujours affichés -->
-![Python](https://img.shields.io/badge/Python-main_language-20A7C9?style=for-the-badge&logo=python&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-LLM_%26_RAG-0e6b6b?style=for-the-badge&logo=openai&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-first-0a2a2a?style=for-the-badge&logo=git&logoColor=20A7C9)
-
-</div>
-
----
-
-<div align="center">
-
 <!-- FOOTER BANNER — dégradé inverse cyan-teal → sombre -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20A7C9,40:0e6b6b,70:0a2a2a,100:0d1117&height=120&section=footer" />
 
