@@ -60,7 +60,7 @@
 
 ### 🔧 Core Tools
 
-[![Core Tools](https://skillicons.dev/icons?i=python,fastapi,docker,git,github,bash,postgres&theme=dark)](https://skillicons.dev)
+[![Core Tools](https://skillicons.dev/icons?i=pycharm,python,fastapi,docker,git,github,bash,postgres&theme=dark)](https://skillicons.dev)
 
 ---
 
