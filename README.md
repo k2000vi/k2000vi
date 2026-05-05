@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/Python-20A7C9?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Github-2496ED?style=flat-square&logo=github&logoColor=992C8A" alt="Github"/>
+        <img src="https://img.shields.io/badge/Github-992C8A?style=flat-square&logo=github&logoColor=white" alt="Github"/>
       </td>
     </tr>
     <tr>
