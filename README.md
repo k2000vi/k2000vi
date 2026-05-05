@@ -43,7 +43,7 @@
     <tr>
       <td>🎯 <b>Focus</b></td>
       <td>
-        <img src="https://img.shields.io/badge/RAG-0e6b6b?style=flat-square&logo=openai&logoColor=white" alt="RAG"/>
+        <img src="https://img.shields.io/badge/RAG-0e6b6b?style=flat-square&logo=openai&logoColor=white" alt="LLM & RAG"/>
         <img src="https://img.shields.io/badge/Open_Source-first-0a2a2a?style=flat-square&logo=git&logoColor=20A7C9" alt="Open Source"/>
       </td>
     </tr>
